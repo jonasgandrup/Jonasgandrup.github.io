@@ -45,7 +45,7 @@ authors:
   johndoe:
     name: Jonas Gandrup
     bio:
-    external-image: false
+    external-image: true
     picture: assets/images/profile.png
     twitter: jonasgandrup
 
