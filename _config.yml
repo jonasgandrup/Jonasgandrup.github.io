@@ -50,7 +50,7 @@ authors:
     twitter: jonasgandrup
 
 # do you want a larger site? change the option below
-options: [normal, large] | default: Large
+options: [normal, large] | default: large
 normal = 560px / large = 810px
 width: normal
 
