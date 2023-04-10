@@ -26,7 +26,7 @@ url: https://github.com/jonasgandrup
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'insert''
+analytics-google: 'G-E4LY1DJEDR'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
